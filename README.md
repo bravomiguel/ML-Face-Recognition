@@ -23,13 +23,13 @@ Python files:
 
 ## Setting up environment to run the code
 
-1. Unzip my coursework submission folder (containing my code) on your laptop; somewhere easily accessible from your command line (e.g. your desktop)
+1. Clone repo locally on your laptop; somewhere easily accessible (e.g. your desktop)
 2. Download and install the anaconda python distribution (if you haven't done so already) using the following link: https://www.anaconda.com/distribution/
 3. Make sure to download the Python 3.7 version, and select the right option for your operating system (Windows, macOS, Linux)
 4. Open your command line (Terminal for Mac, Anaconda Command Prompt for Windows), and navigate to the code subfolder in the coursework submission folder, using this command:
 
 ```
-cd <coursework submission folder address>/code 
+cd <local repo folder path>/code 
 ```
 5. In the command line, run the following commands to create a virtual environment with all the necessary packages to run the python code: 
 
