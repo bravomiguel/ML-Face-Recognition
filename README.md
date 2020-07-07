@@ -3,7 +3,7 @@
 ## Overview
 Computer Vision coursework submission for my MSc Data Science @ City University, London (2020).
 
-**Aim:** Create end-to-end ML-based face recognition system, capable of identifying students from my class in any individual or group image.
+**Aim:** Create end-to-end ML-based face recognition system, capable of identifying students from my Computer Vision class in any individual or group image.
 
 ## Repo contents
 * code - implementation of face recognition system in python
