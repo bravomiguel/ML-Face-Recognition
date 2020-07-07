@@ -8,7 +8,7 @@ Computer Vision coursework submission for my MSc Data Science @ City University,
 ## Repo contents
 * code - implementation of face recognition system in python
 * font - font type file used to print student's unique ID's in images when they are identified by the system
-* report - report outlining theory and implementation approach in more detail, and analysing key findings
+* report - write-up outlining coursework theory and implementation approach in more detail, and analysing key findings
 * video - video showing face recognition system in action.
 
 ## Code contents
